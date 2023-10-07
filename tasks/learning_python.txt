@@ -1,0 +1,4 @@
+In python you can work with html files, http requites
+In python you can create web-scenarios
+In python you can program mathematical and scientific calculation
+In python you can work with images, audio and video files
